@@ -16,7 +16,8 @@
                             "batch_input_shape": [
                                 null,
                                 28,
-                                28
+                                28,
+                                1
                             ],
                             "dtype": "float32",
                             "sparse": false,
@@ -33,7 +34,8 @@
                             "batch_input_shape": [
                                 null,
                                 28,
-                                28
+                                28,
+                                1
                             ],
                             "data_format": "channels_last"
                         }
